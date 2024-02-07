@@ -6,7 +6,7 @@
 </p>
 
 # Description
-Repository for the IEEE-CoDIT 2024 submission "Trajectory Optimization for Adaptive Informative Path Planning with Multimodal Sensing." 
+Repository for the IEEE-CoDIT 2024 submission "Trajectory Optimization for Adaptive Informative Path Planning with Multimodal Sensing." A video describing our work can be found [here](https://youtu.be/i9s0HVperBg).
 
 We consider the problem of an autonomous agent equipped with multiple sensors, each with different sensing accuracy and energy costs. The agent's goal is to explore the environment and gather information subject to its resource constraints in unknown, partially observable environments. The challenge lies in reasoning about the effects of sensing and movement while respecting the agent's resource and dynamic constraints. We formulate the problem as a trajectory optimization problem and solve it using a projection-based trajectory optimization approach where the objective is to reduce the variance of the Gaussian process world belief. Our approach outperforms previous approaches in long horizon trajectories by achieving an overall variance reduction of up to 85% and reducing the root-mean square error in the environment belief by 50%
 
