@@ -1,3 +1,5 @@
+[![arXiv](https://img.shields.io/badge/TO_AIPPMS:%20arXiv-2306.00249-b31b1b.svg)](https://arxiv.org/abs/2404.18374)
+
 # Trajectory Optimization for Adaptive Informative Path Planning with Multimodal Sensing
 
 <!-- ![](https://github.com/josh0tt/TO_AIPPMS/blob/main/img/main_figure.jpg) -->
